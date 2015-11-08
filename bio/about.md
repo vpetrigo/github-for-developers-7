@@ -4,4 +4,4 @@
 
 **Surname:** Petrigo
 
-**Favorite color: ** Red
+**Favorite color:** Red
