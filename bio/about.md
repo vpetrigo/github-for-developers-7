@@ -3,3 +3,5 @@
 **Name:** Vladimir
 
 **Surname:** Petrigo
+
+**Favorite color: ** Red
